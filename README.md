@@ -72,9 +72,7 @@ cv2.destroyAllWindows
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/3142375d-d0c0-4604-8c39-c8b1c9be80dc)
-![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/0c9ff9fb-c098-48d4-96b2-a4e8dab78620)
-![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/6e5df2ba-f187-49ca-b5f5-83b4261c289d)
-![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/fc9aa41b-7035-429f-86f2-9b74fa7653d1)
+![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/647f20ad-98e1-40e1-82e8-db1cfaa323af)
 
 ### Histogram Equalization of Grayscale Image.
 ![image](https://github.com/Evangelin-Ruth/Histogram-of-an-images/assets/94219798/8d7fe19b-f170-4240-aba2-a92d5a719fae)
